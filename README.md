@@ -1,6 +1,8 @@
 # nanobot-feishu-send
 
-Send images, files, audio, and video to Feishu via **nanobot**. This skill uses nanobot's `message` tool; uploads and message type selection are handled automatically by the Feishu channel.
+ Send images, files, audio, and video to Feishu via **nanobot**. This skill uses nanobot's `message` tool; uploads and message type selection are handled automatically by the Feishu channel.
+
+ 中文说明：`README.zh-CN.md`
 
 ## What This Skill Does
 
